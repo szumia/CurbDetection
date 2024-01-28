@@ -1,0 +1,1 @@
+"E:\Clion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\大三上\计算机视觉\2021122121廖展霆Task2\CurbDetection -B E:\大三上\计算机视觉\2021122121廖展霆Task2\CurbDetection\cmake-build-debug

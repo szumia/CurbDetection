@@ -1,0 +1,19 @@
+#ifndef CURBDETECTION_DEFINE_H
+#define CURBDETECTION_DEFINE_H
+
+
+//#define GAUSS
+#define THRE
+#define WRITE
+#define DRAW
+
+#define LINE_ANGLE_LOW 60
+#define LINE_ANGLE_UP 70
+#define LINE_STATIC_LENGTH 300
+#define NEIGHBOR_DELTA_X_UP 20
+#define TARGETS_SIZE 300
+#define MAX_DROP_CNT 1000
+#define MAX_DROP_DELTA_X 135
+
+
+#endif //CURBDETECTION_DEFINE_H

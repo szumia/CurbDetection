@@ -19,7 +19,7 @@
 左上角显示“track跟踪状态”和“drop”跟踪丢失状态。
 
 #### 环境配置
-在Linux环境下，执行sh脚本即可完成配置cmake,opencv，ffmpeg等.测试环境为Ubuntu22.04。
+在Linux环境下，执行sh脚本即可完成配置cmake,opencv，ffmpeg等，测试环境为Ubuntu22.04。
 
 
 #### Contact

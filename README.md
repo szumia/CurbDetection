@@ -18,6 +18,9 @@
 绿色点为跟踪点，蓝线为检测出的路沿线，红线为跟踪预测出的路沿线，大部分情况下红蓝线是重合的。  
 左上角显示“track跟踪状态”和“drop”跟踪丢失状态。
 
+#### 环境配置
+在Linux环境下，执行sh脚本即可完成配置cmake,opencv，ffmpeg等.测试环境为Ubuntu22.04。
+
 
 #### Contact
 If you have any idea or questions, please contact 13046311074@163.com, thanks for your view and star.
